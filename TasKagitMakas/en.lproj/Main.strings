@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "You picked: "; ObjectID = "3Hh-nd-YHA"; */
+"3Hh-nd-YHA.text" = "You picked: ";
+
+/* Class = "UILabel"; text = "Computer"; ObjectID = "4GM-KN-5oK"; */
+"4GM-KN-5oK.text" = "Computer";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "QyJ-df-4di"; */
+"QyJ-df-4di.text" = "0";
+
+/* Class = "UILabel"; text = "You"; ObjectID = "R4I-JI-4sy"; */
+"R4I-JI-4sy.text" = "You";
+
+/* Class = "UIButton"; normalTitle = "Scissors"; ObjectID = "RV4-Ac-PrA"; */
+"RV4-Ac-PrA.normalTitle" = "Scissors";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Y4F-WO-xSL"; */
+"Y4F-WO-xSL.text" = "0";
+
+/* Class = "UILabel"; text = "Rock Paper Scissors"; ObjectID = "hjJ-l8-lVR"; */
+"hjJ-l8-lVR.text" = "Rock Paper Scissors";
+
+/* Class = "UIButton"; normalTitle = "Paper"; ObjectID = "n5x-Ug-vcg"; */
+"n5x-Ug-vcg.normalTitle" = "Paper";
+
+/* Class = "UILabel"; text = "Computer picked:"; ObjectID = "ndU-GJ-ur5"; */
+"ndU-GJ-ur5.text" = "Computer picked:";
+
+/* Class = "UIButton"; normalTitle = "Rock"; ObjectID = "odT-V0-9hs"; */
+"odT-V0-9hs.normalTitle" = "Rock";
