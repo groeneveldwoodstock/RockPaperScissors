@@ -22,13 +22,11 @@ This app was created to teach and learn. All code used in creating the app is av
 </h3>
 <p>If you need to contact me you can reach out to me through https://github.com/groeneveldwoodstock or visit http://www.popecomputerscience.com/ or email me at richard.groeneveld@cobbk12.org 
 </p>
-
-
-<h3>Download from the App Store!</h3>
-<img src="https://github.com/groeneveldwoodstock/RockPaperScissors/blob/main/AppStoreRPS.png" alt="Screen Shot" style="width:200px;">
+<h3>Available in the App Store!</h3>
+<img src="https://github.com/groeneveldwoodstock/OfflineChat/blob/main/groeneveldAppStore.png" alt="Screen Shot" style="width:200px;">
 <hr>
 <p>
 Based on code by Dogukan Yolcuoglu:
 https://github.com/dogukanyolcuoglu/TasKagitMakas
 </p>
-  </body>
+</body>
